@@ -40,7 +40,7 @@ A regional API endpoint is intended for customers in the same region. The data f
 The regions are:
 
 | Region               | Endpoint                            | Max Timeout (Seconds) | Max Payload Size(MB)** |
-|- -- -- -- -- -- -- -- -- -- -- -|- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --|- -- -- -- -- -- -- -- -- -- -- --|- -- -- -- -- -- -- -- -- -- -- -- --|
+|------------------------|---------------------------------------|-------------------------|---------------------------|
 | Default (Singapore)  | https://rest.apitemplate.io         | 100                   | 1                       |
 | Europe (Frankfurt)   | https://rest-de.apitemplate.io      | 100                   | 1                       |
 | US East (N. Virginia)| https://rest-us.apitemplate.io      | 100                   | 1                       |
@@ -49,7 +49,7 @@ The regions are:
 
 Alternative Regions:
 | Region               | Endpoint                            | Max Timeout (Seconds) | Max Payload Size(MB)** |
-|- -- -- -- -- -- -- -- -- -- -- -|- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --|- -- -- -- -- -- -- -- -- -- -- --|- -- -- -- -- -- -- -- -- -- -- -- --|
+|------------------------|---------------------------------------|-------------------------|---------------------------|
 | Default (Singapore)  | https://rest-alt.apitemplate.io     | 30                    | 6                       |
 | Europe (Frankfurt)   | https://rest-alt-de.apitemplate.io  | 30                    | 6                       |
 | US East (N. Virginia)| https://rest-alt-us.apitemplate.io  | 30                    | 6                       |
@@ -192,7 +192,7 @@ namespace Example
 All URIs are relative to *https://rest.apitemplate.io*
 
 Class | Method | HTTP request | Description
------------- | ------------- | ------------- | -------------
+------------|---------------|---------------|---------------
 *APIIntegrationApi* | [**CreateImage**](docs/APIIntegrationApi.md#createimage) | **POST** /v2/create-image | Create an Image
 *APIIntegrationApi* | [**CreatePdf**](docs/APIIntegrationApi.md#createpdf) | **POST** /v2/create-pdf | Create a PDF
 *APIIntegrationApi* | [**CreatePdfFromHtml**](docs/APIIntegrationApi.md#createpdffromhtml) | **POST** /v2/create-pdf-from-html | Create a PDF from HTML
