@@ -3,7 +3,7 @@
 # Introduction
 
 
-Welcome to the [APITemplate.io](https://apitemplate.io) API v2! This is the official APITemplate.io library for C#. Please find more details at our [API Reference](https://apitemplate.io/apiv2/).
+Welcome to the [APITemplate.io](https://apitemplate.io) API v2! This is the official APITemplate.io library for C#. For more details, see our [REST API Reference](https://apitemplate.io/apiv2/).
 
 APITemplate.io provides PDF generation services including [Template-based PDF generation](https://apitemplate.io/pdf-generation-api/), [HTML to PDF](https://apitemplate.io/html-to-pdf-api/), and [URL to PDF conversions](https://apitemplate.io/create-pdf-from-url/), as well as an [image generation API](https://apitemplate.io/image-generation-api/).
 

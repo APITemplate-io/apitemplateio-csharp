@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITemplateio", "src\APITemplateio\APITemplateio.csproj", "{1E397A03-E632-4AFB-8020-08D6B4BDC6B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITemplateio", "src\APITemplateio\APITemplateio.csproj", "{EFD25157-4163-4219-80A0-5F0342115428}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITemplateio.Test", "src\APITemplateio.Test\APITemplateio.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
 EndProject
@@ -12,10 +12,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E397A03-E632-4AFB-8020-08D6B4BDC6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E397A03-E632-4AFB-8020-08D6B4BDC6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E397A03-E632-4AFB-8020-08D6B4BDC6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E397A03-E632-4AFB-8020-08D6B4BDC6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD25157-4163-4219-80A0-5F0342115428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD25157-4163-4219-80A0-5F0342115428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD25157-4163-4219-80A0-5F0342115428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD25157-4163-4219-80A0-5F0342115428}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.ActiveCfg = Release|Any CPU
